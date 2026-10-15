@@ -1,6 +1,6 @@
 # Qwitter (qwitter)
 
-A Cross-Platrom Twitter Clone created with Quasar Framework, VueJS & Firebase
+A Cross-Platform Twitter Clone created with Quasar Framework, VueJS & Firebase
 
 ## Setup Firebase
 - Create a new Firebase project named Qwitter
